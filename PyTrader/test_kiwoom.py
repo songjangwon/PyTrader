@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     data = wrapper.get_data_opt10086("035420", "20170101")
     print(len(data))
+

@@ -48,7 +48,7 @@ class MyWindow(QMainWindow, form_class):
 
         # 자동 주문
         # 자동 주문을 활성화 하려면 True로 설정
-        #self.is_automatic_order = True
+        self.is_automatic_order = False
         self.in_processing = False
 
         # 자동 선정 종목 리스트 테이블 설정
