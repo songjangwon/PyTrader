@@ -1,0 +1,5 @@
+account.txt
+stock.db
+kiwoom.log
+*.pyc
+.idea
